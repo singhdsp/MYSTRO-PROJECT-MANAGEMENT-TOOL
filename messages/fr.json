@@ -1,0 +1,211 @@
+{
+  "Index": {
+    "Admin_Title": "Tableau de bord de gestion de projet",
+    "Admin_ProjectName": "Nom du projet",
+    "Admin_Status": "Statut",
+    "Admin_Hours": "Heures",
+    "Admin_CreateProject": "Créer un projet"
+  },
+  "Profile": {
+    "Title": "Profil",
+    "ChangeLanguage": "Changer de langue",
+    "LogOut": "Se déconnecter"
+  },
+  "AdminNav": {
+    "Home": "Maison",
+    "Profile": "Profil",
+    "ProjectDetails": "Détails du projet",
+    "WorkerDetails": "Détails du travailleur"
+  },
+  "CreateProject": {
+    "Title": "Créer un projet",
+    "Inp1Placeholder": "Nom du projet",
+    "AddMembers": "Ajouter des membres de l'équipe",
+    "TeamAdmin": "Administrateur d'équipe",
+    "CreateProject": "Créer un projet"
+  },
+  "CreateTask": {
+    "Create Task": "Créer une tâche",
+    "Task Name": "Nom de la tâche",
+    "Description": "Description",
+    "AddDescription": "Ajouter une description",
+    "AddTeamMembers": "Ajouter des membres de l'équipe",
+    "StartDate": "Date de début",
+    "Confirm": "Confirmer"
+  },
+  "EditProject": {
+    "EditProject": "Modifier le projet",
+    "ProjectName": "Nom du projet",
+    "EditTeamMembers": "Modifier les membres de l'équipe",
+    "TeamAdministrator": "Administrateur d'équipe",
+    "SaveChanges": "Enregistrer les modifications",
+    "DeleteProject": "Supprimer le projet",
+    "DeleteConfirm": "Êtes-vous sûr de vouloir supprimer ce projet ? ",
+    "Cancel": "Annuler",
+    "Delete": "Supprimer"
+  },
+  "EditTask": {
+    "EditTask": "Modifier la tâche",
+    "TaskName": "Nom de la tâche",
+    "TaskDescription": "Description de la tâche",
+    "EditTeamMembers": "Modifier les membres de l'équipe",
+    "SaveChanges": "Enregistrer les modifications",
+    "DeleteTask": "Supprimer la tâche",
+    "DeleteConfirm": " Êtes-vous sûr de vouloir supprimer cette tâche ? ",
+    "Delete": "Supprimer",
+    "Cancel": "Annuler"
+  },
+  "TaskDetails": {
+    "PauseTask": "Suspendre la tâche",
+    "StartTask": "Démarrer la tâche",
+    "EditTask": "Modifier la tâche",
+    "Status": "Statut",
+    "ChangeStatus": "Changer le statut",
+    "ChangeStatusNote": "Remarque : Pour définir un projet comme terminé, vous devez télécharger une photo avant et après.",
+    "Cancel": "Annuler",
+    "Save": "Sauvegarder",
+    "TaskNameAudio": "Nom de la tâche Audio",
+    "Description": "Description",
+    "TaskDescriptionAudio": "Description de la tâche Audio",
+    "Before": "Avant",
+    "After": "Après",
+    "TotalHours": "Heures totales"
+  },
+  "ContractorWorkerDetails": {
+    "WorkerDetails": "Détails du travailleur",
+    "StartTimestamp": "Horodatage de début",
+    "EndTimestamp": "Horodatage de fin",
+    "Day": "Jour",
+    "StartDayPhoto": "Photo du jour de départ",
+    "EndDayPhoto": "Photo de fin de journée",
+    "Today": "Aujourd'hui",
+    "ThisWeek": "Cette semaine",
+    "LastWeek": "La semaine dernière",
+    "Hours": "Heures",
+    "DollarRate": "Taux du dollar",
+    "ContractorNotes": "Notes de l'entrepreneur",
+    "Error1": "Veuillez ajouter des notes et noter",
+    "Save": "Sauvegarder"
+  },
+  "ContractorWorkerDirectory": {
+    "Workers": "Ouvriers",
+    "IN": "DANS",
+    "INTODAY": "AUJOURD'HUI",
+    "ABSENT": "ABSENT",
+    "AVAILABLE": "DISPONIBLE",
+    "AssignTask": "Attribuer à une tâche existante"
+  },
+  "ContractorAssignTask": {
+    "ChooseTask": "Choisir une tâche",
+    "Tasks": "Tâches",
+    "Description": "Description",
+    "NoTask": "Aucune tâche"
+  },
+  "ContractorProjectDetails1": {
+    "CreateTask": "Créer une tâche",
+    "EditProject": "Modifier le projet"
+  },
+  "ContractorAssignProjects": {
+    "ChooseProject": "Choisir un projet",
+    "ProjectName": "Nom du projet",
+    "Status": "Statut",
+    "Hours": "Heures",
+    "Completed": "Complété",
+    "NoProjectAvailable": "Aucun projet disponible"
+  },
+  "WorkerHome": {
+    "Welcome": "Accueillir",
+    "Day": "Jour",
+    "StartPhoto": "Démarrer la photo",
+    "StartDayPhoto": "Photo du jour de départ",
+    "EndPhoto": "Photo de fin",
+    "EndDayPhoto": "Photo de fin de journée",
+    "Today": "Aujourd'hui",
+    "ThisWeek": "Cette semaine",
+    "LastWeek": "La semaine dernière",
+    "Hours": "Heures",
+    "ProjectsForBoss": "Projets pour le patron"
+  },
+  "WorkerWorkerDetails": {
+    "WorkerDetails": "Détails du travailleur",
+    "Day": "Jour",
+    "StartDayPhoto": "Photo du jour de départ",
+    "EndDayPhoto": "Photo de fin de journée",
+    "Today": "Aujourd'hui",
+    "ThisWeek": "Cette semaine",
+    "LastWeek": "La semaine dernière",
+    "Hours": "Heures"
+  },
+  "WorkerProjectDetails": {
+    "CreateTask": "Créer une tâche",
+    "EditProject": "Modifier le projet"
+  },
+  "TaskStatus1": {
+    "NotYetStarted": "Pas encore commencé",
+    "All": "Tous",
+    "Completed": "Complété",
+    "InProgress": "En cours",
+    "Blocked": "Bloqué"
+  },
+  "TaskStatus2": {
+    "NotYetStarted": "Pas encore commencé",
+    "Completed": "Complété",
+    "InProgress": "En cours",
+    "Blocked": "Bloqué"
+  },
+  "AudioRecorder": {
+    "Close": "Fermer"
+  },
+  "WorkerNav": {
+    "Home": "Maison",
+    "ProjectDetails": "Détails du projet",
+    "WorkerDetails": "Détails du travailleur",
+    "Profile": "Profil"
+  },
+  "SelectTeam": {
+    "SelectMembers": "Sélectionnez les membres",
+    "Save": "Sauvegarder"
+  },
+  "CommentBox": {
+    "HoursToday": "Horaires aujourd'hui",
+    "TotalHours": "Heures totales",
+    "AreYouSure": "Es-tu sûr?",
+    "NoteSure": "Remarque : Cette action ne peut pas être annulée.",
+    "Cancel": "Annuler",
+    "Delete": "Supprimer",
+    "AddComment": "Ajouter un commentaire"
+  },
+  "DatePicker": {
+    "Pickadate": "Choisissez une date"
+  },
+  "SmallComment": {
+    "AddComment": "Ajouter un commentaire"
+  },
+  "SuccessDialog": {
+    "Done": "Fait"
+  },
+  "EndDay": {
+    "EndDay": "Jour de fin",
+    "Imagecaptured": "Image capturée",
+    "RetakePhoto": "Reprendre la photo",
+    "CapturePhoto": "Prendre une photo"
+  },
+  "StartDay": {
+    "StartDay": "Jour de début",
+    "Imagecaptured": "Image capturée",
+    "RetakePhoto": "Reprendre la photo",
+    "CapturePhoto": "Prendre une photo"
+  },
+  "TaskList": {
+    "Tasks": "Tâches",
+    "Description": "Description"
+  },
+  "TaskView": {
+    "Tasks": "Tâches",
+    "Before": "Avant",
+    "Progress": "Progrès"
+  },
+  "ImageUploadButton": {
+    "UploadImage": "Télécharger une image"
+  }
+}

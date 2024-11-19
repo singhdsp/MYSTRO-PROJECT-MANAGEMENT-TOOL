@@ -1,0 +1,211 @@
+{
+  "Index": {
+    "Admin_Title": "Project Management Dashboard",
+    "Admin_ProjectName": "Project Name",
+    "Admin_Status": "Status",
+    "Admin_Hours": "Hours",
+    "Admin_CreateProject": "Create Project"
+  },
+  "Profile": {
+    "Title": "Profile",
+    "ChangeLanguage": "Change Language",
+    "LogOut": "Log Out"
+  },
+  "AdminNav": {
+    "Home": "Home",
+    "Profile": "Profile",
+    "ProjectDetails": "Project Details",
+    "WorkerDetails": "Worker Details"
+  },
+  "CreateProject": {
+    "Title": "Create Project",
+    "Inp1Placeholder": "Project Name",
+    "AddMembers": "Add Team Members",
+    "TeamAdmin": "Team Administrator",
+    "CreateProject": "Create Project"
+  },
+  "CreateTask": {
+    "Create Task": "Create Task",
+    "Task Name": "Task Name",
+    "Description": "Description",
+    "AddDescription": "Add Description",
+    "AddTeamMembers": "Add Team Members",
+    "StartDate": "Start Date",
+    "Confirm": "Confirm"
+  },
+  "EditProject": {
+    "EditProject": "Edit Project",
+    "ProjectName": "Project Name",
+    "EditTeamMembers": "Edit Team Members",
+    "TeamAdministrator": "Team Administrator",
+    "SaveChanges": "Save Changes",
+    "DeleteProject": "Delete Project",
+    "DeleteConfirm": "Are you sure you want to delete this project? This action cannot be undone.",
+    "Cancel": "Cancel",
+    "Delete": "Delete"
+  },
+  "EditTask": {
+    "EditTask": "Edit Task",
+    "TaskName": "Task Name",
+    "TaskDescription": "Task Description",
+    "EditTeamMembers": "Edit Team Members",
+    "SaveChanges": "Save Changes",
+    "DeleteTask": "Delete Task",
+    "DeleteConfirm": " Are you sure you want to delete this task? This action cannot be undone.",
+    "Delete": "Delete",
+    "Cancel": "Cancel"
+  },
+  "TaskDetails": {
+    "PauseTask": "Pause Task",
+    "StartTask": "Start Task",
+    "EditTask": "Edit Task",
+    "Status": "Status",
+    "ChangeStatus": "Change Status",
+    "ChangeStatusNote": "Note: Setting a project to completed requires uploading before and after photo.",
+    "Cancel": "Cancel",
+    "Save": "Save",
+    "TaskNameAudio": "Task Name Audio",
+    "Description": "Description",
+    "TaskDescriptionAudio": "Task Description Audio",
+    "Before": "Before",
+    "After": "After",
+    "TotalHours": "Total Hours"
+  },
+  "ContractorWorkerDetails": {
+    "WorkerDetails": "Worker Details",
+    "StartTimestamp": "Start Timestamp",
+    "EndTimestamp": "End Timestamp",
+    "Day": "Day",
+    "StartDayPhoto": "Start Day Photo",
+    "EndDayPhoto": "End Day Photo",
+    "Today": "Today",
+    "ThisWeek": "This Week",
+    "LastWeek": "Last Week",
+    "Hours": "Hours",
+    "DollarRate": "Dollar Rate",
+    "ContractorNotes": "Contractor Notes",
+    "Error1": "Please add notes and rate",
+    "Save": "Save"
+  },
+  "ContractorWorkerDirectory": {
+    "Workers": "Workers",
+    "IN": "IN",
+    "INTODAY": "IN TODAY",
+    "ABSENT": "ABSENT",
+    "AVAILABLE": "AVAILABLE",
+    "AssignTask": "Assign To Existing Task"
+  },
+  "ContractorAssignTask": {
+    "ChooseTask": "Choose Task",
+    "Tasks": "Tasks",
+    "Description": "Description",
+    "NoTask": "No Task"
+  },
+  "ContractorProjectDetails1": {
+    "CreateTask": "Create Task",
+    "EditProject": "Edit Project"
+  },
+  "ContractorAssignProjects": {
+    "ChooseProject": "Choose Project",
+    "ProjectName": "Project Name",
+    "Status": "Status",
+    "Hours": "Hours",
+    "Completed": "Completed",
+    "NoProjectAvailable": "No Project Available"
+  },
+  "WorkerHome": {
+    "Welcome": "Welcome",
+    "Day": "Day",
+    "StartPhoto": "Start Photo",
+    "StartDayPhoto": "Start Day Photo",
+    "EndPhoto": "End Photo",
+    "EndDayPhoto": "End Day Photo",
+    "Today": "Today",
+    "ThisWeek": "This Week",
+    "LastWeek": "Last Week",
+    "Hours": "Hours",
+    "ProjectsForBoss": "Projects For Boss"
+  },
+  "WorkerWorkerDetails": {
+    "WorkerDetails": "Worker Details",
+    "Day": "Day",
+    "StartDayPhoto": "Start Day Photo",
+    "EndDayPhoto": "End Day Photo",
+    "Today": "Today",
+    "ThisWeek": "This Week",
+    "LastWeek": "Last Week",
+    "Hours": "Hours"
+  },
+  "WorkerProjectDetails": {
+    "CreateTask": "CreateTask",
+    "EditProject": "Edit Project"
+  },
+  "TaskStatus1": {
+    "NotYetStarted": "Not yet started",
+    "All": "All",
+    "Completed": "Completed",
+    "InProgress": "In Progress",
+    "Blocked": "Blocked"
+  },
+  "TaskStatus2": {
+    "NotYetStarted": "Not yet started",
+    "Completed": "Completed",
+    "InProgress": "In Progress",
+    "Blocked": "Blocked"
+  },
+  "AudioRecorder": {
+    "Close": "Close"
+  },
+  "WorkerNav": {
+    "Home": "Home",
+    "ProjectDetails": "Project Details",
+    "WorkerDetails": "Worker Details",
+    "Profile": "Profile"
+  },
+  "SelectTeam": {
+    "SelectMembers": "Select Members",
+    "Save": "Save"
+  },
+  "CommentBox": {
+    "HoursToday": "Hours Today",
+    "TotalHours": "Total Hours",
+    "AreYouSure": "Are you sure?",
+    "NoteSure": "Note: This action cannot be undone.",
+    "Cancel": "Cancel",
+    "Delete": "Delete",
+    "AddComment": "Add Comment"
+  },
+  "DatePicker": {
+    "Pickadate": "Pick a date"
+  },
+  "SmallComment": {
+    "AddComment": "Add Comment"
+  },
+  "SuccessDialog": {
+    "Done": "Done"
+  },
+  "EndDay": {
+    "EndDay": "End Day",
+    "Imagecaptured": "Image captured",
+    "RetakePhoto": "Retake Photo",
+    "CapturePhoto": "Capture Photo"
+  },
+  "StartDay": {
+    "StartDay": "Start Day",
+    "Imagecaptured": "Image captured",
+    "RetakePhoto": "Retake Photo",
+    "CapturePhoto": "Capture Photo"
+  },
+  "TaskList": {
+    "Tasks": "Tasks",
+    "Description": "Description"
+  },
+  "TaskView": {
+    "Tasks": "Tasks",
+    "Before": "Before",
+    "Progress": "Progress"
+  },
+  "ImageUploadButton":{
+    "UploadImage": "Upload Image"
+  }
+}

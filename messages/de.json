@@ -1,0 +1,211 @@
+{
+  "Index": {
+    "Admin_Title": "Projektmanagement-Dashboard",
+    "Admin_ProjectName": "Projektname",
+    "Admin_Status": "Status",
+    "Admin_Hours": "Std",
+    "Admin_CreateProject": "Projekt erstellen"
+  },
+  "Profile": {
+    "Title": "Profil",
+    "ChangeLanguage": "Sprache ändern",
+    "LogOut": "Abmelden"
+  },
+  "AdminNav": {
+    "Home": "Heim",
+    "Profile": "Profil",
+    "ProjectDetails": "Projektdetails",
+    "WorkerDetails": "Angaben zum Arbeitnehmer"
+  },
+  "CreateProject": {
+    "Title": "Projekt erstellen",
+    "Inp1Placeholder": "Projektname",
+    "AddMembers": "Fügen Sie Teammitglieder hinzu",
+    "TeamAdmin": "Teamadministrator",
+    "CreateProject": "Projekt erstellen"
+  },
+  "CreateTask": {
+    "Create Task": "Aufgabe erstellen",
+    "Task Name": "Aufgabenname",
+    "Description": "Beschreibung",
+    "AddDescription": "Beschreibung hinzufügen",
+    "AddTeamMembers": "Fügen Sie Teammitglieder hinzu",
+    "StartDate": "Startdatum",
+    "Confirm": "Bestätigen"
+  },
+  "EditProject": {
+    "EditProject": "Projekt bearbeiten",
+    "ProjectName": "Projektname",
+    "EditTeamMembers": "Teammitglieder bearbeiten",
+    "TeamAdministrator": "Teamadministrator",
+    "SaveChanges": "Änderungen speichern",
+    "DeleteProject": "Projekt löschen",
+    "DeleteConfirm": "Möchten Sie dieses Projekt wirklich löschen? ",
+    "Cancel": "Stornieren",
+    "Delete": "Löschen"
+  },
+  "EditTask": {
+    "EditTask": "Aufgabe bearbeiten",
+    "TaskName": "Aufgabenname",
+    "TaskDescription": "Aufgabenbeschreibung",
+    "EditTeamMembers": "Teammitglieder bearbeiten",
+    "SaveChanges": "Änderungen speichern",
+    "DeleteTask": "Aufgabe löschen",
+    "DeleteConfirm": " Sind Sie sicher, dass Sie diese Aufgabe löschen möchten? ",
+    "Delete": "Löschen",
+    "Cancel": "Stornieren"
+  },
+  "TaskDetails": {
+    "PauseTask": "Aufgabe anhalten",
+    "StartTask": "Aufgabe starten",
+    "EditTask": "Aufgabe bearbeiten",
+    "Status": "Status",
+    "ChangeStatus": "Status ändern",
+    "ChangeStatusNote": "Hinweis: Um ein Projekt auf „abgeschlossen“ zu setzen, müssen Vorher- und Nachher-Fotos hochgeladen werden.",
+    "Cancel": "Stornieren",
+    "Save": "Speichern",
+    "TaskNameAudio": "Aufgabenname Audio",
+    "Description": "Beschreibung",
+    "TaskDescriptionAudio": "Aufgabenbeschreibung Audio",
+    "Before": "Vor",
+    "After": "Nach",
+    "TotalHours": "Gesamtstunden"
+  },
+  "ContractorWorkerDetails": {
+    "WorkerDetails": "Angaben zum Arbeitnehmer",
+    "StartTimestamp": "Zeitstempel starten",
+    "EndTimestamp": "Endzeitstempel",
+    "Day": "Tag",
+    "StartDayPhoto": "Foto zum Start in den Tag",
+    "EndDayPhoto": "Foto zum Abschluss des Tages",
+    "Today": "Heute",
+    "ThisWeek": "Diese Woche",
+    "LastWeek": "Letzte Woche",
+    "Hours": "Std",
+    "DollarRate": "Dollarkurs",
+    "ContractorNotes": "Hinweise des Auftragnehmers",
+    "Error1": "Bitte Notizen hinzufügen und bewerten",
+    "Save": "Speichern"
+  },
+  "ContractorWorkerDirectory": {
+    "Workers": "Arbeiter",
+    "IN": "IN",
+    "INTODAY": "HEUTE",
+    "ABSENT": "ABWESEND",
+    "AVAILABLE": "VERFÜGBAR",
+    "AssignTask": "Einer vorhandenen Aufgabe zuweisen"
+  },
+  "ContractorAssignTask": {
+    "ChooseTask": "Wählen Sie Aufgabe",
+    "Tasks": "Aufgaben",
+    "Description": "Beschreibung",
+    "NoTask": "Keine Aufgabe"
+  },
+  "ContractorProjectDetails1": {
+    "CreateTask": "Aufgabe erstellen",
+    "EditProject": "Projekt bearbeiten"
+  },
+  "ContractorAssignProjects": {
+    "ChooseProject": "Wählen Sie Projekt",
+    "ProjectName": "Projektname",
+    "Status": "Status",
+    "Hours": "Std",
+    "Completed": "Vollendet",
+    "NoProjectAvailable": "Kein Projekt verfügbar"
+  },
+  "WorkerHome": {
+    "Welcome": "Willkommen",
+    "Day": "Tag",
+    "StartPhoto": "Foto starten",
+    "StartDayPhoto": "Foto zum Start in den Tag",
+    "EndPhoto": "Foto beenden",
+    "EndDayPhoto": "Foto zum Abschluss des Tages",
+    "Today": "Heute",
+    "ThisWeek": "Diese Woche",
+    "LastWeek": "Letzte Woche",
+    "Hours": "Std",
+    "ProjectsForBoss": "Projekte für Chef"
+  },
+  "WorkerWorkerDetails": {
+    "WorkerDetails": "Angaben zum Arbeitnehmer",
+    "Day": "Tag",
+    "StartDayPhoto": "Foto zum Start in den Tag",
+    "EndDayPhoto": "Foto zum Abschluss des Tages",
+    "Today": "Heute",
+    "ThisWeek": "Diese Woche",
+    "LastWeek": "Letzte Woche",
+    "Hours": "Std"
+  },
+  "WorkerProjectDetails": {
+    "CreateTask": "CreateTask",
+    "EditProject": "Projekt bearbeiten"
+  },
+  "TaskStatus1": {
+    "NotYetStarted": "Noch nicht begonnen",
+    "All": "Alle",
+    "Completed": "Vollendet",
+    "InProgress": "Im Gange",
+    "Blocked": "Blockiert"
+  },
+  "TaskStatus2": {
+    "NotYetStarted": "Noch nicht begonnen",
+    "Completed": "Vollendet",
+    "InProgress": "Im Gange",
+    "Blocked": "Blockiert"
+  },
+  "AudioRecorder": {
+    "Close": "Schließen"
+  },
+  "WorkerNav": {
+    "Home": "Heim",
+    "ProjectDetails": "Projektdetails",
+    "WorkerDetails": "Angaben zum Arbeitnehmer",
+    "Profile": "Profil"
+  },
+  "SelectTeam": {
+    "SelectMembers": "Wählen Sie Mitglieder aus",
+    "Save": "Speichern"
+  },
+  "CommentBox": {
+    "HoursToday": "Stunden heute",
+    "TotalHours": "Gesamtstunden",
+    "AreYouSure": "Bist du sicher?",
+    "NoteSure": "Hinweis: Diese Aktion kann nicht rückgängig gemacht werden.",
+    "Cancel": "Stornieren",
+    "Delete": "Löschen",
+    "AddComment": "Kommentar hinzufügen"
+  },
+  "DatePicker": {
+    "Pickadate": "Wählen Sie ein Datum"
+  },
+  "SmallComment": {
+    "AddComment": "Kommentar hinzufügen"
+  },
+  "SuccessDialog": {
+    "Done": "Erledigt"
+  },
+  "EndDay": {
+    "EndDay": "Endtag",
+    "Imagecaptured": "Bild aufgenommen",
+    "RetakePhoto": "Foto erneut aufnehmen",
+    "CapturePhoto": "Foto aufnehmen"
+  },
+  "StartDay": {
+    "StartDay": "Starttag",
+    "Imagecaptured": "Bild aufgenommen",
+    "RetakePhoto": "Foto erneut aufnehmen",
+    "CapturePhoto": "Foto aufnehmen"
+  },
+  "TaskList": {
+    "Tasks": "Aufgaben",
+    "Description": "Beschreibung"
+  },
+  "TaskView": {
+    "Tasks": "Aufgaben",
+    "Before": "Vor",
+    "Progress": "Fortschritt"
+  },
+  "ImageUploadButton": {
+    "UploadImage": "Bild hochladen"
+  }
+}
